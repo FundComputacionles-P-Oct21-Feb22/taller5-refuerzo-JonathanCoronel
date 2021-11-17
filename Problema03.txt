@@ -7,7 +7,7 @@ Problema 3
 //imprima el subtotal por pagar y el total por pagar.
 
 1.Inicio 
-2.tipo_vehiculo, x(50)[{a-z}, {A-B}, {BS}]
+2.tipo_vehiculo, x(15)[{a-z}, {A-B}, {BS}]
 3.valor_juegollantas, d[0, n] 
 4.num_juegollantas, d[0, n] 
 5. subTotal, d[0,n]
